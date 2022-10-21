@@ -13,6 +13,7 @@
 <h3 align="center">✉️ Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/busraakay/" target="blank"><img align="center" src="https://img.shields.io/badge/busraakay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="busraakay"  /></a>
+<a href="https://www.hackerrank.com/busraakay6" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="busraakay"  /></a>
 </p>
 <h3 align="center">📌 Technologies:</h3>
 <p align="center">
