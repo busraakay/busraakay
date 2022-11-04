@@ -37,5 +37,5 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intelijidea" width="30" height="30"/> </a> 
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=busraakay&show_icons=true&theme=radical&locale=en&layout=compact" alt="busraakay" /></p>
+
  
