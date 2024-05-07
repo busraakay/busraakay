@@ -8,7 +8,7 @@
 📫 How to reach me **busraakay06@gmail.com**
 </div>
 
- <div align="center"><img src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="500" height="350"  /> </div>
+ <div align="center"><img src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="400" height="300"  /> </div>
 
 <h3 align="center">✉️ Connect with me:</h3>
 <p align="center">
