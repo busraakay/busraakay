@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **.NET Core, React.js etc.**
+🌱 I’m currently learning **Micro Services**
 <br>
 📫 How to reach me **busraakay06@gmail.com**
 </div>
