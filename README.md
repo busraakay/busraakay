@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">📌 Technologies:</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/36/1/c-sharp-c-logo-png_seeklogo-363285.png" alt="csharp" width="27" height="30"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
