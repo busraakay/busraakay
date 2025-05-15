@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="250" align="right" />
 
-# Hi 👋, I'm Büşra  
+## Hi 👋, I'm Büşra  
 ### Software Engineer
 
 🌱 I’m currently learning **Micro Services**  
