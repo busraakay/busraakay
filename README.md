@@ -1,14 +1,13 @@
-<h1 align="center"> Hi 👋,  I'm Büşra </h1>
-<h3 align="center">Software Engineer</h3>
+<img src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="250" align="right" />
 
-<div align="center">
+# Hi 👋, I'm Büşra  
+### Software Engineer
 
-🌱 I’m currently learning **Micro Services**
-<br>
-📫 How to reach me **busraakay06@gmail.com**
-</div>
+🌱 I’m currently learning **Micro Services**  
+📫 How to reach me: busraakay06@gmail.com
 
- <div align="center"><img src="https://miro.medium.com/max/700/0*K2WLMTExLyida7OR.gif" width="400" height="300"  /> </div>
+
+
 
 <h3 align="center">✉️ Connect with me:</h3>
 <p align="center">
