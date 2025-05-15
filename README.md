@@ -9,13 +9,13 @@
 
 
 
-<h3 align="center">✉️ Connect with me:</h3>
-<p align="center">
+<h3 align="left">✉️ Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/busraakay/" target="blank"><img align="center" src="https://img.shields.io/badge/busraakay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="busraakay"  /></a>
 <a href="https://www.hackerrank.com/busraakay6" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="busraakay"  /></a>
 </p>
-<h3 align="center">📌 Technologies:</h3>
-<p align="center">
+<h3 align="left">📌 Technologies:</h3>
+<p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
@@ -27,8 +27,8 @@
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://erdincuzun.com/wp-content/uploads/2019/04/react-native-logo.png" alt="reactnative" width="30" height="30"/> </a>
 
 </br>
-<h3 align="center">✏️ Tools:</h3>
-<p align="center">
+<h3 align="left">✏️ Tools:</h3>
+<p align="left">
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualstudio" width="30" height="33"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
