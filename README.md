@@ -36,9 +36,6 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraakay&show_icons=true&locale=en&layout=compact" alt="busraakay" /></p>
-
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=busraakay&border_radius=5&mode=weekly&card_height=100" alt="busraakay" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=busraakay&label=Profile%20views&color=0e75b6&style=flat" alt="busraakay" width="1" height="1">
