@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Büşra  
 ### Software Engineer
 
+
 🌱 I’m currently learning **Micro Services**  
 📫 How to reach me: busraakay06@gmail.com
 
@@ -33,6 +34,9 @@
 <a href="https://www.pgadmin.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgadmin" width="30" height="30"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intelijidea" width="30" height="30"/> </a> 
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=busraakay&label=Profile%20views&color=0e75b6&style=flat" alt="busraakay" width="1" height="1">
+
 
 
  
