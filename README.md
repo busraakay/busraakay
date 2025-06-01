@@ -35,8 +35,13 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intelijidea" width="30" height="30"/> </a> 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=busraakay&label=Profile%20views&color=0e75b6&style=flat" alt="busraakay" width="1" height="1">
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraakay&show_icons=true&locale=en&layout=compact" alt="busraakay" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=busraakay&border_radius=5&mode=weekly&card_height=100" alt="busraakay" /></p>
+
+<img src="https://komarev.com/ghpvc/?username=busraakay&label=Profile%20views&color=0e75b6&style=flat" alt="busraakay" width="1" height="1">
 
 
  
